@@ -1,0 +1,84 @@
+body {
+  background: #DAD7DA;
+  text-align: center;
+}
+
+.navbar-default {
+  background: #FF0000;
+  border: none;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-nav li {
+  display: inline-block;
+  float: none;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #FFF;
+  padding-bottom: 5px;
+}
+
+.navbar-default .navbar-nav li a:hover {
+  color: #FFF;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #FFF;
+}
+
+.btn-data-user {
+  width: 200px;
+  height: 110px;
+  background: #0045FF;
+  color: #fff;
+  border-radius: 0;
+}
+
+.btn-data-user:hover,
+.btn-data-user:active {
+  width: 200px;
+  height: 110px;
+  background: #002A9C;
+  color: #fff;
+  border-radius: 0;
+}
+
+.btn-data-mahasiswa {
+  width: 200px;
+  height: 110px;
+  background: #BF1B28;
+  color: #fff;
+  border-radius: 0;
+}
+
+.btn-data-mahasiswa:hover,
+.btn-data-mahasiswa:active {
+  width: 200px;
+  height: 110px;
+  background: #8F141E;
+  color: #fff;
+  border-radius: 0;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+.nama-icon {
+  margin-top: -10px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}

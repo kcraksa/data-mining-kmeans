@@ -1,0 +1,44 @@
+body {
+  background: #DAD7DA;
+}
+
+.panel {
+	margin-top: 40%;
+	-webkit-box-shadow: 0px 4px 5px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 4px 5px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 4px 5px 1px rgba(0,0,0,0.75);
+	border: none;
+}
+
+.panel-default .panel-heading {
+	border-radius: 0;
+ 	background: #007F30;
+ 	color: #fff;
+ 	padding: 5px 15px;
+ 	text-align: center;
+}
+
+.panel-default .panel-footer {
+	border-radius: 0;
+ 	background: #007F30;
+ 	color: #fff;
+ 	text-align: right;
+}
+
+.btn-primary {
+  border-radius: 0;
+  color: #fff;
+  background: #FF5717;
+  border: none;
+}
+
+.btn-primary:hover {
+  border-radius: 0;
+  color: #fff;
+  background: #FF3F0A;
+  border: none;
+}
+
+.form-control {
+  border-radius: 0;
+}

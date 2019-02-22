@@ -1,0 +1,15 @@
+body {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.jumbotron {
+  height: 500px;
+  overflow: scroll;
+  border-radius: 0;
+}
+
+.grafik {
+  height: 500px;
+  overflow: auto;
+}

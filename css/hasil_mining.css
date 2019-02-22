@@ -1,0 +1,27 @@
+body {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.jumbotron {
+  height: 600px;
+  overflow: scroll;
+  border-radius: 0;
+  background: #fff;
+}
+
+.table-striped > thead > tr > th {
+  text-align: center;
+}
+
+.table-striped > thead > tr > td {
+  text-align: right;
+}
+
+#info_iterasi.jumbotron {
+  height: 100px;
+  overflow: hidden;
+  text-align: left;
+  padding: 17px;
+  font-size: 12pt;
+}

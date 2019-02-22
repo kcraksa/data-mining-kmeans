@@ -1,0 +1,20 @@
+body {
+  margin-top: 70px;
+  text-align: center;
+  padding: 20px;
+}
+
+.info-jumlah {
+  background: #105B63;
+  color: #fff;
+  padding: 10px;
+}
+
+.label-jml {
+  font-size: 20px;
+}
+
+.jumlahMhs {
+  font-size: 50px;
+  text-align: right;
+}

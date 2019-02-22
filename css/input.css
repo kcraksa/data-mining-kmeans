@@ -1,0 +1,82 @@
+body {
+  background: #DAD7DA;
+}
+
+.navbar-default {
+  background: #FF0000;
+  border: none;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-nav li {
+  display: inline-block;
+  float: none;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #FFF;
+  padding-bottom: 5px;
+}
+
+.navbar-default .navbar-nav li a:hover {
+  color: #FFF;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #FFF;
+}
+
+.panel {
+  margin-top: 80px;
+  -webkit-box-shadow: 4px 4px 6px 0px rgba(50, 50, 50, 0.63);
+  -moz-box-shadow:    4px 4px 6px 0px rgba(50, 50, 50, 0.63);
+  box-shadow:         4px 4px 6px 0px rgba(50, 50, 50, 0.63);
+  border: 0;
+}
+
+.panel-default .panel-heading {
+  border-radius: 0;
+  background: #007F30;
+  color: #FFFFFF;
+  border: none;
+}
+
+.panel-default .panel-footer {
+  border-radius: 0;
+  background: #007F30;
+  color: #FFFFFF;
+  border: none;
+  text-align: right;
+}
+
+.btn-primary {
+  border-radius: 0;
+  color: #fff;
+  background: #FF5717;
+  border-color: #FF5717;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  border-radius: 0;
+  color: #fff;
+  background: #FF3F0A;
+  border-color: #FF3F0A;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.modal-header {
+  border-radius: 0;
+  background: #007F30;
+  color: #fff;
+}
+
+a.new {
+  float: right;
+}
